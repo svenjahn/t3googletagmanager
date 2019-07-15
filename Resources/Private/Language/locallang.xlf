@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+     <file source-language="en" datatype="plaintext" original="messages" date="2018-05-14T10:55:51Z" product-name="t3googletagmanager">
+         <header/>
+         <body>
+            <trans-unit id="tx_t3googletagmanager.google_tagmanager_id" xml:space="preserve">
+                <source>Google Tagmanager ID</source>
+            </trans-unit>
+            <trans-unit id="tx_t3googletagmanager.tab_title" xml:space="preserve">
+                <source>Google Tagmanager</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
